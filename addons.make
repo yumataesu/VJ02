@@ -1,0 +1,3 @@
+ofxAlembic
+ofxGui
+ofxSyphon
