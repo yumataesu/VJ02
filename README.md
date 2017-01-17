@@ -13,5 +13,5 @@ I performed at Jinnan Acid #3
 * ofxSython
 
 ### Alembic files
-couldn't upload abc files, because there are too large..
+Here is Alembic files. because these are too large for git..
 https://drive.google.com/drive/folders/0B3NRvblz17BILUNYbVQ4dE94RzQ?usp=sharing
